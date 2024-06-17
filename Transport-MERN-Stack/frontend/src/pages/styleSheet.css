@@ -1,0 +1,6 @@
+body {
+    background-image: url('../images/bgImage.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    /* Additional styles */
+  }
